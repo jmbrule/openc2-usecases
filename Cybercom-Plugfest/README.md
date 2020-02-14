@@ -204,8 +204,8 @@ included:
 **Issue:** Lack of stable/validated schema and data sets that can be used for all clients and servers
 
 **Action:**
-* Define and maintain a package of downloadable JSON schema and test data that all plugfest/interop participants can use before plugfest.
-* Need common sets of data for all to use for testing.
+* Define and maintain a package of downloadable JSON schema and test data that all plugfest/interop participants can use before plugfest. These are available in the [Schemas](https://github.com/oasis-tcs/openc2-usecases/tree/master/Cybercom-Plugfest/Schemas) folder.
+* Need common sets of data for all to use for testing.  These are available in the [TestData](https://github.com/oasis-tcs/openc2-usecases/tree/master/Cybercom-Plugfest/TestData) folder.
 * Need sets of data that are unique to vendors or use cases that help provide more robust testing.
 
 This repository includes use case descriptions, schemas, and test data (good and bad) for use by participants prior to the event.
